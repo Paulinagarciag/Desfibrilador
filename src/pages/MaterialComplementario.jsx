@@ -13,7 +13,7 @@ const MaterialC = () => {
       <div className="pdf-container">
         <h2>Ficha Técnica</h2>
         <a
-          href="../assets/Desfibrilador-Mindray-Beneheart-D3.pdf" // Ruta al PDF en la carpeta assets
+          href="../../public/Desfibrilador-Mindray-Beneheart-D3.pdf" // Ruta al PDF en la carpeta assets
           target="_blank"
           rel="noopener noreferrer"
         >
